@@ -2,8 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Codes for this paper: [CVPR 2022] [The Principle of Diversity: Training Stronger Vision Transformers Calls for**
-**Reducing All Levels of Redundancy](). 
+Codes for this paper: [CVPR 2022] [The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy](). 
 
 Tianlong Chen, Zhenyu Zhang, Yu Cheng, Ahmed Awadallah, Zhangyang Wang.
 
